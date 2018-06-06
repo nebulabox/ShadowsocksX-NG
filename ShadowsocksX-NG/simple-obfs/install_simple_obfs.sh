@@ -4,7 +4,7 @@ FILE_DIR=`dirname "${BASH_SOURCE[0]}"`
 cd "$FILE_DIR"
 
 NGDir="$HOME/Library/Application Support/ShadowsocksX-NG"
-TargetDir="$NGDir/simple-obfs-0.0.2"
+TargetDir="$NGDir/simple-obfs-180606"
 PluginDir="$NGDir/plugins"
 
 echo ngdir: ${NGDir}
