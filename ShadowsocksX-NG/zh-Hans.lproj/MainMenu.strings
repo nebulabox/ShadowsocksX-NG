@@ -18,7 +18,7 @@
 "Hob-KD-bx9.title" = "ShadowsocksX-NG";
 
 /* Class = "NSMenuItem"; title = "显示日志..."; ObjectID = "Jfy-sf-Fhl"; */
-"Jfy-sf-Fhl.title" = "显示日志...";
+"Jfy-sf-Fhl.title" = "Logs in ~/Library/Logs";
 
 /* Class = "NSMenuItem"; title = "关于"; ObjectID = "LgB-6g-Gba"; */
 "LgB-6g-Gba.title" = "关于";

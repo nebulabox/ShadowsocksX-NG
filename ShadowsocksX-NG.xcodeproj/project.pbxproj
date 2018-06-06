@@ -268,15 +268,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1C82DBA31FA96C7400B32551 /* simple-obfs */ = {
-			isa = PBXGroup;
-			children = (
-				1C82DBA51FA96C7400B32551 /* obfs-local */,
-				1C82DBA91FA96F0300B32551 /* install_simple_obfs.sh */,
-			);
-			path = "simple-obfs";
-			sourceTree = "<group>";
-		};
 		33F4F299F89330966F4526E4 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -295,7 +286,8 @@
 		9B07EFB01D048E900052D9DF /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				1C82DBA31FA96C7400B32551 /* simple-obfs */,
+				1C82DBA51FA96C7400B32551 /* obfs-local */,
+				1C82DBA91FA96F0300B32551 /* install_simple_obfs.sh */,
 				9B16E5991F99FD0700E54DC5 /* icons8-Blind Filled-50.png */,
 				9B16E5971F99FD0700E54DC5 /* icons8-Eye Filled-50.png */,
 				9B938D931E864B38005F5636 /* menu_g_icon.png */,
